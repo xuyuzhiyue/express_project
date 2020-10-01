@@ -110,7 +110,7 @@
           <span>时尚购物</span>
           <div class="bottom clearfix">
             <time class="time">{{ currentDate }}</time>
-            <el-button type="text" class="button">操作按钮</el-button>
+            <!-- <el-button type="text" class="button">操作按钮</el-button> -->
           </div>
         </div>
       </el-card>
